@@ -57,7 +57,7 @@ Terima kasih!
 
 ## Tabel Isi
 
-1. [Behavioral Patterns](index.md#behavioral)
+1. [Behavioral Patterns](./Typescript-Design-Patterns/behavioral/readme.md)
    - [Observer Pattern](index.md#observer-pattern)
    - [Mediator Pattern](index.md#mediator-pattern)
    - [Command Pattern](index.md#command-pattern)
