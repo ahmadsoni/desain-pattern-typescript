@@ -1,0 +1,21 @@
+/*
+                                Store
+                Fashion                      Computer
+FashionCheap        FashionExpensive     ComputerCheap  ComputerExpensive
+
+
+
+
+                                Store
+                Fashion                      Computer                                   Phone
+FashionCheap        FashionExpensive     ComputerCheap  ComputerExpensive     PhoneCheap    PhoneExpensive
+
+
+
+Akibat nya akan panjang jika ada penambahan Medium
+                                                    Store
+            Fashion                                                 Computer                                   Phone
+FashionCheap       FashionExpensive    FashionMedium     ComputerCheap  ComputerExpensive   ComputerMedium     PhoneCheap    PhoneExpensive     PhoneMedium
+
+
+*/
