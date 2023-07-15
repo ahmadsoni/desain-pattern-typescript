@@ -14,10 +14,10 @@ Contoh Structural Patterns yang umum adalah:
 6. **Proxy Pattern**: Menyediakan objek pengganti atau placeholder untuk mengontrol akses ke objek asli.
 
 ## Tabel Isi
-1. [Structural Patterns](./Typescript-Desain-Pattern/structural/readme.md)
-   - [Adapter Pattern](./Typescript-Desain-Pattern/structural/adapter/readme.md)
-   - [Bridge Pattern](./Typescript-Desain-Pattern/structural/bridge/readme.md)
-   - [Composite Pattern](./Typescript-Desain-Pattern/structural/composite/readme.md)
-   - [Decorator Pattern](./Typescript-Desain-Pattern/structural/decorator/readme.md)
-   - [Facade Pattern](./Typescript-Desain-Pattern/structural/facade/readme.md)
-   - [Proxy Pattern](./Typescript-Desain-Pattern/structural/proxy/readme.md)
+1. [Structural Patterns](./readme.md)
+   - [Adapter Pattern](./adapter/readme.md)
+   - [Bridge Pattern](./bridge/readme.md)
+   - [Composite Pattern](./composite/readme.md)
+   - [Decorator Pattern](./decorator/readme.md)
+   - [Facade Pattern](./facade/readme.md)
+   - [Proxy Pattern](./proxy/readme.md)

@@ -16,9 +16,9 @@ Dengan memahami dan menerapkan Creational Patterns, pengembang perangkat lunak d
 
 ## Tabel Isi
 
-1. [Creational Patterns](./Typescript-Desain-Pattern/creational/readme.md)
-   - [Factory Method](./Typescript-Desain-Pattern/creational/factory_method/readme.md)
-   - [Singleton Pattern](./Typescript-Desain-Pattern/creational/singleton/readme.md)
-   - [Abstract Factory Pattern](./Typescript-Desain-Pattern/creational/factory_abstract/readme.md)
-   - [Builder Pattern](./Typescript-Desain-Pattern/creational/builder/readme.md)
-   - [Prototype Pattern](./Typescript-Desain-Pattern/creational/prototype/readme.md)
+1. [Creational Patterns](./readme.md)
+   - [Factory Method](./factory_method/readme.md)
+   - [Singleton Pattern](./singleton/readme.md)
+   - [Abstract Factory Pattern](./factory_abstract/readme.md)
+   - [Builder Pattern](./builder/readme.md)
+   - [Prototype Pattern](./prototype/readme.md)
